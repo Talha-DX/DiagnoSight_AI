@@ -25,51 +25,52 @@ Clinical Support: Evidence-based recommendations for doctors
 **Screen Shots**
 
 ### 1) Login Screen
-![Login Screen](AI_1.png)
+![Login Screen](.\assets\images\AI_1.png)
 
 ### 2) Main DashBoard Dashboard (without Login)
-![Main DashBoard](AI_2.png)
+![Main DashBoard](.\assets\images\AI_2.png)
 
 
 ### 3) Main DashBoard Dashboard (with Login)
-![Main DashBoard](AI_3.png)
+![Main DashBoard](.\assets\images\AI_3.png)
 
 
 ### 4) Login Page
-![Login Page](AI_4.png)
+![Login Page](.\assets\images\AI_4.png)
 
 ### 5) Signup Page
-![SignUp Page](AI_5.png)
+![SignUp Page](.\assets\images\AI_5.png)
 
 ### 6) Diagnsis Tab
-![Diagnosis Tab](AI_6.png)
+![Diagnosis Tab](.\assets\images\AI_6.png)
 
 ### 7) ChatBot Tab
-![chatBot Tab](AI_7.png)
+![chatBot Tab](.\assets\images\AI_7.png)
 
 ### 8) Doctor Recommendation Tab
-![Doctor Tab](AI_8.png)
+![Doctor Tab](.\assets\images\AI_8.png)
 
 ### 9) Report Tab
-![Report Tab](AI_9.png)
+![Report Tab](.\assets\images\AI_9.png)
 
 ### 10) PDF Download Format
-![PDF Download](AI_10.png)
+![PDF Download](.\assets\images\AI_10.png)
 
 ### 11)  Setting Tab
-![Setting Tab](AI_11.png)
+![Setting Tab](.\assets\images\AI_11.png)
 
 ### 12) Edit Profile 
-![Profile](AI_12.png)
+![Profile](.\assets\images\AI_12.png)
 
 ### 13) Change Password
-![Password](AI_13.png)
+![Password](.\assets\images\AI_13.png)
 
 ### 14) Logout Confirmation
-![Logout](AI_14.png)
+![Logout](.\assets\images\AI_14.png)
 
 ### 15) Delete Account
-![Delete](AI_15.png)
+![Delete](.\assets\images\AI_15.png)
+
 
 
 
